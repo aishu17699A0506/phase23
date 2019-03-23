@@ -1,0 +1,51 @@
+body{
+  background-color: #FAC4D3;
+  text-align: center;
+}
+.main{
+  display: flex;
+  margin: 2%;
+  padding: 1%;
+}
+.child
+{
+  display: flex;
+  margin: 2%;
+  padding: 1%;
+}
+.main section{
+  border: 1px solid purple;
+  margin: 2%;
+  padding: 1%;
+  text-align: center;
+  width: 95%
+}
+.child section{
+  border: 1px  solid purple;
+  margin: 2%;
+  padding:1%;
+  text-align: center;
+  width:95%
+}
+section{
+  text-align: center;
+  background-color: #F9E67F  ;
+  width:95%;
+  margin:2%;
+  border: 1px solid purple;
+}
+select,input{
+  width:90%;
+  justify-content: space-around;
+  margin: 2%;
+  padding:2%;
+}
+button{
+  background-color: #9DFB77  ;
+  text-align: center;
+  width:30%;
+  margin: 4%;
+  padding: 2%;
+  justify-content: space-around;
+
+}
